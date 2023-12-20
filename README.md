@@ -15,9 +15,13 @@ const germangauna = {
   
   ´´´
   You can find me:
+  
   -[instagram](https://instagram.com/germangauna)
+  
   -[twitter](https://twitter.com/germangauna)
+  
   -[facebook](https://facebook.com/germangauna)
+  
 <!--
 **germangauna/germangauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
