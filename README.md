@@ -18,7 +18,7 @@ const germangauna = {
   
   -[instagram](https://instagram.com/germangauna)
   
-  -[twitter](https://twitter.com/germangauna)
+  -[twitter](https://twitter.com/gaunagerman)
   
   -[facebook](https://facebook.com/germangauna)
   
