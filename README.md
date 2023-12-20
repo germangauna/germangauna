@@ -1,5 +1,16 @@
 ### Hi there 👋
+´´´ js
 
+const thai = {
+
+  pronouns: "GermanGauna" | "him",
+  
+  code: [Javascript, HTML, CSS],
+  
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  
+  }
+  ´´´
 <!--
 **germangauna/germangauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
