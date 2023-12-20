@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I´m German 
+![goku2](https://github.com/germangauna/germangauna/assets/108035044/be63bae1-8523-463d-a706-6ddaabfc5934)
+
 ´´´ js
 
 const thai = {
