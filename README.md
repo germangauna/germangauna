@@ -1,5 +1,5 @@
 ### Hi I´m German 
-![goku2](https://github.com/germangauna/germangauna/assets/108035044/be63bae1-8523-463d-a706-6ddaabfc5934)
+![code6](https://github.com/germangauna/germangauna/assets/108035044/b1f2dfd8-ff99-4c38-af05-65ce140081ea)
 
 ´´´ js
 
