@@ -5,11 +5,10 @@
 
 const germangauna = {
 
-  pronouns: "he" | "him",
   
   code: [Javascript, HTML, CSS],
   
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, HTML, Node.js, Css.Style, ],
   
   }
   
